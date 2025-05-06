@@ -20,7 +20,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 
 ## Description
 
-Through AWS architecture, I was able to host my own resume/portfolio website. Through this project, I was able to gain a deeper understanding of website developement, DNS/certificates, databases, API's, IAC, and CI/CD. 
+Utilizing AWS architecture, I was able to host my own resume/portfolio website. Through this project, I was able to gain a deeper understanding of website developement, DNS/certificates, databases, API's, IAC, and CI/CD. 
 
 
 
